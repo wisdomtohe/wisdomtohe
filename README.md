@@ -1,7 +1,7 @@
 # Hi there 🤗 
 
 
-<p><i> I'm Wisdom a Tech Enthusiast. i am willing to be a great Open Source Contributer. I love to explore and learn about new domains and working on mind-blowing projects that will change Africa.</i></p>
+<p><i> I'm Wisdom a Tech Enthusiast and lover of algrithms. I am willing to be a great Open Source Contributer. I love to explore and learn about new domains and working on mind-blowing projects that will change Africa.</i></p>
 <img src="https://user-images.githubusercontent.com/74819092/118170606-e73acc00-b447-11eb-8ef4-0ebbab5bc7d7.png"align="right" height=38% width=38%>
 
 <ul>
