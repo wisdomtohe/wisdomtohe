@@ -6,7 +6,7 @@
 
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Analysis</code>, <code>Oracle Cloud</code> , <code>Amazon Cloud</code> , <code>Google Cloud</code></li>
-<li> 💬 <b>Ask me about</b> : <code>Python</code>, <code>Java </code>, <code>C</code>, <code>Spring Boot</code>, <code>Django</code>, <code>FatsAPI</code>, <code>Jupiter Notebook</code>, <code>Machine Learning</code>, <code>NLP</code>, <code>Data Analysis</code></li>
+<li> 💬 <b>Ask me about</b> : <code>Python</code>, <code>Java </code>, <code>C</code>, <code>Spring Boot</code>, <code>Django</code>, <code>FastAPI</code>, <code>Jupiter Notebook</code>, <code>Machine Learning</code>, <code>NLP</code>, <code>Data Analysis</code></li>
   <li>👯 <b>I’m looking to collaborate on: </b> <code> Open source projects </code> </>
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:elmanciowisdom@gmail.com">elmanciowisdom@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
